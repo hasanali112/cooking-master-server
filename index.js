@@ -15,6 +15,12 @@ app.get('/cook', (req, res)=>{
     res.send(cookDataLoad)
 })
 
+app.get('/cook/:id', (req, res)=>{
+    const id = req.params.id;
+    const cookLoad = cookDataLoad.find(cooking=> cooking.id == id) || {};
+    res.send(cookLoad)
+})
+
 
 app.listen(port, () => {
     console.log(`cook master server is running ${port}`)
