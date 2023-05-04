@@ -1,0 +1,181 @@
+[
+    {
+        "id": "001",
+        "chef_picture": "[Image Link]",
+        "chef_name": "John Smith",
+        "years_of_experience": 10,
+        "number_of_recipes": 150,
+        "likes": 500,
+        "bio": "John Smith is a passionate chef with a flair for creating unique culinary experiences.",
+        "recipes": [
+            {
+                "recipe_name": "Spicy Thai Curry",
+                "ingredients": ["Coconut milk", "Red curry paste", "Chicken", "Bell peppers", "Basil leaves"],
+                "cooking_method": "1. Heat a pan and add red curry paste.\n2. Add coconut milk and stir well.\n3. Add chicken and cook until done.\n4. Add bell peppers and basil leaves.\n5. Simmer for a few minutes.\n6. Serve hot with steamed rice.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Classic Beef Lasagna",
+                "ingredients": ["Ground beef", "Lasagna noodles", "Tomato sauce", "Ricotta cheese", "Mozzarella cheese"],
+                "cooking_method": "1. Brown the ground beef in a skillet.\n2. Layer lasagna noodles, tomato sauce, and ground beef in a baking dish.\n3. Add dollops of ricotta cheese.\n4. Repeat the layers.\n5. Top with mozzarella cheese.\n6. Bake in the oven until cheese is melted and bubbly.\n7. Let it cool slightly before serving.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Decadent Chocolate Cake",
+                "ingredients": ["Flour", "Sugar", "Cocoa powder", "Eggs", "Butter"],
+                "cooking_method": "1. Preheat the oven and grease a cake pan.\n2. Mix flour, sugar, and cocoa powder in a bowl.\n3. Add eggs and melted butter.\n4. Mix well until smooth.\n5. Pour the batter into the cake pan.\n6. Bake for 30-35 minutes.\n7. Let it cool before frosting.\n8. Decorate as desired and enjoy!",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "chef_picture": "[Image Link]",
+        "chef_name": "Maria Rodriguez",
+        "years_of_experience": 8,
+        "number_of_recipes": 200,
+        "likes": 800,
+        "bio": "Maria Rodriguez is a skilled chef known for her expertise in Mediterranean cuisine.",
+        "recipes": [
+            {
+                "recipe_name": "Greek Salad",
+                "ingredients": ["Cucumber", "Tomato", "Red onion", "Feta cheese", "Kalamata olives"],
+                "cooking_method": "1. Chop cucumber, tomato, and red onion.\n2. Combine in a bowl.\n3. Add crumbled feta cheese and kalamata olives.\n4. Drizzle with olive oil and lemon juice.\n5. Toss well.\n6. Serve chilled.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Mediterranean Grilled Chicken",
+                "ingredients": ["Chicken breasts", "Lemon", "Garlic", "Oregano", "Olive oil"],
+                "cooking_method": "1. Marinate chicken breasts in lemon juice, garlic, oregano, and olive oil.\n2. Grill the chicken until cooked through.\n3. Serve hot with a side of grilled vegetables.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Spanakopita",
+                "ingredients": ["Phyllo dough", "Spinach", "Feta cheese", "Onion", "Olive oil"],
+                "cooking_method": "1. Preheat the oven.\n2. Saute spinach and onion in olive oil until wilted.\n3. Mix in crumbled feta cheese.\n4. Layer phyllo dough and spinach mixture.\n5. Repeat the layers.\n6. Bake until golden and crispy.\n7. Let it cool slightly before serving.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "chef_picture": "[Image Link]",
+        "chef_name": "David Johnson",
+        "years_of_experience": 15,
+        "number_of_recipes": 300,
+        "likes": 1200,
+        "bio": "David Johnson is an acclaimed chef with a passion for fusion cuisine.",
+        "recipes": [
+            {
+                "recipe_name": "Teriyaki Salmon",
+                "ingredients": ["Salmon fillets", "Soy sauce", "Honey", "Garlic", "Ginger"],
+                "cooking_method": "1. Marinate salmon fillets in soy sauce, honey, garlic, and ginger.\n2. Grill or pan-sear the salmon until cooked to desired doneness.\n3. Serve hot with a side of steamed rice and vegetables.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Pasta Carbonara",
+                "ingredients": ["Spaghetti", "Pancetta", "Egg yolks", "Parmesan cheese", "Black pepper"],
+                "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a separate pan, cook pancetta until crispy.\n3. In a bowl, whisk together egg yolks, grated Parmesan cheese, and black pepper.\n4. Drain cooked pasta and immediately toss with the egg mixture.\n5. Add crispy pancetta and mix well.\n6. Serve hot with an extra sprinkle of Parmesan cheese.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Mango Salsa",
+                "ingredients": ["Mango", "Red bell pepper", "Red onion", "Lime juice", "Cilantro"],
+                "cooking_method": "1. Dice mango, red bell pepper, and red onion.\n2. Combine in a bowl.\n3. Add freshly squeezed lime juice and chopped cilantro.\n4. Toss well to combine.\n5. Let it sit for a few minutes to allow flavors to meld.\n6. Serve as a refreshing side dish or topping for grilled meats.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": "004",
+        "chef_picture": "[Image Link]",
+        "chef_name": "Sophia Nguyen",
+        "years_of_experience": 12,
+        "number_of_recipes": 250,
+        "likes": 900,
+        "bio": "Sophia Nguyen is a talented pastry chef specializing in French desserts.",
+        "recipes": [
+            {
+                "recipe_name": "Croissants",
+                "ingredients": ["Flour", "Butter", "Sugar", "Salt", "Yeast"],
+                "cooking_method": "1. Prepare the dough by combining flour, sugar, salt, yeast, and water.\n2. Knead the dough until smooth.\n3. Roll out the dough and place a layer of butter on top.\n4. Fold the dough multiple times to create layers.\n5. Cut the dough into triangles and roll them up.\n6. Let the croissants rise.\n7. Bake until golden brown.\n8. Serve warm and enjoy the flaky goodness.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Crème Brûlée",
+                "ingredients": ["Heavy cream", "Egg yolks", "Sugar", "Vanilla extract"],
+                "cooking_method": "1. Preheat the oven.\n2. In a saucepan, heat the cream until hot.\n3. In a separate bowl, whisk together egg yolks, sugar, and vanilla extract.\n4. Slowly pour the hot cream into the egg mixture while continuously whisking.\n5. Strain the mixture and divide it into ramekins.\n6. Place the ramekins in a baking dish filled with water.\n7. Bake until set.\n8. Let them cool and refrigerate for a few hours.\n9. Sprinkle sugar on top and caramelize with a torch before serving.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Macarons",
+                "ingredients": ["Almond flour", "Powdered sugar", "Egg whites", "Granulated sugar", "Food coloring"],
+                "cooking_method": "1. Sift almond flour and powdered sugar together.\n2. In a separate bowl, whisk egg whites until foamy.\n3. Gradually add granulated sugar and continue whisking until stiff peaks form.\n4. Gently fold the dry ingredients into the egg white mixture.\n5. Divide the batter and add food coloring if desired.\n6. Pipe small circles onto a baking sheet.\n7. Let them rest for about 30 minutes.\n8. Bake until the shells are set.\n9. Fill with your favorite filling.\n10. Sandwich the macarons together.\n11. Chill before serving.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": "005",
+        "chef_picture": "[Image Link]",
+        "chef_name": "Michael Chen",
+        "years_of_experience": 20,
+        "number_of_recipes": 500,
+        "likes": 1500,
+        "bio": "Michael Chen is a renowned chef known for his expertise in Asian fusion cuisine.",
+        "recipes": [
+            {
+                "recipe_name": "Sushi Rolls",
+                "ingredients": ["Sushi rice", "Nori seaweed", "Fish or seafood", "Cucumber", "Avocado"],
+                "cooking_method": "1. Prepare sushi rice according to package instructions.\n2. Lay a sheet of nori seaweed on a bamboo sushi mat.\n3. Spread a thin layer of sushi rice on the nori.\n4. Add your choice of fish or seafood, cucumber, and avocado as fillings.\n5. Roll the sushi tightly using the bamboo mat.\n6. Slice the sushi roll into bite-sized pieces.\n7. Serve with soy sauce, wasabi, and pickled ginger.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Pad Thai",
+                "ingredients": ["Rice noodles", "Shrimp", "Tofu", "Eggs", "Bean sprouts"],
+                "cooking_method": "1. Soak rice noodles in warm water until softened.\n2. Heat oil in a wok or large skillet.\n3. Add shrimp, tofu, and scrambled eggs.\n4. Stir-fry until shrimp is cooked and eggs are set.\n5. Push everything to one side and add soaked rice noodles.\n6. Pour in the pad Thai sauce.\n7. Toss everything together until well combined.\n8. Add bean sprouts and chopped peanuts.\n9. Stir-fry for another minute.\n10. Serve hot with lime wedges.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Beef with Broccoli",
+                "ingredients": ["Beef sirloin", "Broccoli", "Garlic", "Soy sauce", "Oyster sauce"],
+                "cooking_method": "1. Slice beef sirloin into thin strips.\n2. Blanch broccoli florets in boiling water.\n3. Heat oil in a wok or skillet.\n4. Stir-fry garlic until fragrant.\n5. Add beef strips and cook until browned.\n6. Stir in soy sauce and oyster sauce.\n7. Add blanched broccoli and stir-fry until heated through.\n8. Serve hot with steamed rice.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": "006",
+        "chef_picture": "[Image Link]",
+        "chef_name": "Emily Wilson",
+        "years_of_experience": 10,
+        "number_of_recipes": 300,
+        "likes": 1200,
+        "bio": "Emily Wilson is a creative pastry chef with a passion for creating visually stunning desserts.",
+        "recipes": [
+            {
+                "recipe_name": "Chocolate Lava Cake",
+                "ingredients": ["Dark chocolate", "Butter", "Eggs", "Sugar", "Flour"],
+                "cooking_method": "1. Preheat the oven.\n2. Melt dark chocolate and butter together.\n3. In a separate bowl, whisk eggs and sugar.\n4. Combine the melted chocolate mixture with the egg mixture.\n5. Fold in flour until just combined.\n6. Grease and flour individual ramekins.\n7. Pour the batter into the ramekins.\n8. Bake until the edges are set but the center is still gooey.\n9. Invert onto plates and serve with a scoop of ice cream.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Strawberry Shortcake",
+                "ingredients": ["Strawberries", "Whipped cream", "Sponge cake", "Powdered sugar"],
+                "cooking_method": "1. Wash and slice strawberries.\n2. Whip cream until stiff peaks form.\n3. Cut sponge cake into individual layers.\n4. Place a layer of sponge cake on a plate.\n5. Top with sliced strawberries.\n6. Add a layer of whipped cream.\n7. Repeat the layers.\n8. Finish with a layer of whipped cream and a dusting of powdered sugar.\n9. Chill before serving.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Raspberry Macarons",
+                "ingredients": ["Almond flour", "Powdered sugar", "Egg whites", "Granulated sugar", "Raspberry jam"],
+                "cooking_method": "1. Sift almond flour and powdered sugar together.\n2. In a separate bowl, whisk egg whites until foamy.\n3. Gradually add granulated sugar and continue whisking until stiff peaks form.\n4. Gently fold the dry ingredients into the egg white mixture.\n5. Divide the batter and add a touch of pink food coloring.\n6. Pipe small circles onto a baking sheet.\n7. Let them rest for about 30 minutes.\n8. Bake until the shells are set.\n9. Fill with raspberry jam.\n10. Sandwich the macarons together.\n11. Chill before serving.",
+                "rating": 4.8
+            }
+        ]
+    }
+    
+    
+    
+    
+
+]
