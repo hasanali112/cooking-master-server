@@ -1,7 +1,7 @@
 [
     {
         "id": "001",
-        "chef_picture": "[Image Link]",
+        "chef_picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
         "chef_name": "John Smith",
         "years_of_experience": 10,
         "number_of_recipes": 150,
@@ -30,7 +30,7 @@
     },
     {
         "id": "002",
-        "chef_picture": "[Image Link]",
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1676996177410-d360bcf94bc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
         "chef_name": "Maria Rodriguez",
         "years_of_experience": 8,
         "number_of_recipes": 200,
@@ -59,7 +59,7 @@
     },
     {
         "id": "003",
-        "chef_picture": "[Image Link]",
+        "chef_picture": "https://images.unsplash.com/photo-1519974395578-e3e2a6c0313f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "chef_name": "David Johnson",
         "years_of_experience": 15,
         "number_of_recipes": 300,
@@ -88,7 +88,7 @@
     },
     {
         "id": "004",
-        "chef_picture": "[Image Link]",
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1667520531270-91cd1c972b3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "chef_name": "Sophia Nguyen",
         "years_of_experience": 12,
         "number_of_recipes": 250,
@@ -117,7 +117,7 @@
     },
     {
         "id": "005",
-        "chef_picture": "[Image Link]",
+        "chef_picture": "https://plus.unsplash.com/premium_photo-1661956269640-49e3b78f2a87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "chef_name": "Michael Chen",
         "years_of_experience": 20,
         "number_of_recipes": 500,
@@ -146,7 +146,7 @@
     },
     {
         "id": "006",
-        "chef_picture": "[Image Link]",
+        "chef_picture": "https://images.unsplash.com/photo-1556909114-44e3e70034e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "chef_name": "Emily Wilson",
         "years_of_experience": 10,
         "number_of_recipes": 300,
